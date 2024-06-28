@@ -9,9 +9,9 @@
 ## Project Overview
 Welcome to the To-Do Web Application! This project is a simple yet effective task management tool built with HTML, CSS, and JavaScript.
 
-![Project Image](path-to-image)
+![Project Image](screenshot.jpeg)
 
-[Live Demo](https://to-do-web-application-eight.vercel.app/)
+[Live Demo]([https://to-do-web-application-eight.vercel.app/](https://todo-list-alpha-pied.vercel.app/))
 
 ## CRUD Operations
 - **CREATE:** Add new tasks effortlessly.
