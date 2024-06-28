@@ -46,7 +46,7 @@ Welcome to the To-Do Web Application! This project is a simple yet effective tas
     ```
 2. **Go to the project directory**
     ```sh
-    cd todo-web-application
+    cd TODO-LIST
     ```
 3. **Open the `index.html` file in your preferred web browser.**
 
